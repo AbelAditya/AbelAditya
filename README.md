@@ -30,8 +30,8 @@ I'm a programmer skilled in developing applications using various languages incl
 - Advanced Pose Estimation Techniques
 
 ### 📫 How to reach me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aparajith-n-54224a210/](https://www.linkedin.com/in/abeladityaphilipose/))
-- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeladityaphilipose@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aparajith-n-54224a210/](https://www.linkedin.com/in/abeladityaphilipose/))
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeladityaphilipose@gmail.com)
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelAditya&show_icons=true&theme=radical)
