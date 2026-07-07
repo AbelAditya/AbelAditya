@@ -6,7 +6,6 @@ I'm a programmer skilled in developing applications using various languages incl
 
 ### 🚀 Projects I'm Currently Working On:
 - **MultiArth**: A Multimodal Linguistic Mannerism Analysis Tool
-- 
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
