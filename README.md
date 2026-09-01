@@ -24,7 +24,7 @@ I'm a programmer skilled in developing applications using various languages incl
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🌱 I'm currently learning
-- GPU Programming
+- Model Distillation
 - Deep RL
 - Text Diffusion Models
 
