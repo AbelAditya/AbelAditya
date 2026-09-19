@@ -24,9 +24,8 @@ I'm a programmer skilled in developing applications using various languages incl
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🌱 I'm currently learning
-- Model Distillation
 - Deep RL
-- Text Diffusion Models
+- Agent Harnesses
 
 ### 📫 How to reach me
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aparajith-n-54224a210/](https://www.linkedin.com/in/abeladityaphilipose/))
